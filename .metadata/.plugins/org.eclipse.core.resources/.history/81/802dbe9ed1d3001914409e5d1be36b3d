@@ -1,0 +1,24 @@
+package ABB;
+
+import java.util.Scanner;
+
+public class Palindrome {
+	
+	
+
+	public static void main(String[] args) {
+		
+		int a,i=0,j=0;
+		int num = 12345;
+		a = num;
+		
+		
+		
+	
+		
+		
+
+	}
+
+
+}

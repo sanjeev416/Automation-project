@@ -1,0 +1,42 @@
+package ABB;
+
+public class Palin {
+	
+	public static void palindrome()
+	
+	{
+		
+		int a,i=0,j=0;
+		int num =12321;
+		a=num;
+		
+	while(a>0);
+	{
+		i=a%10;
+		j=(j*10)+i;
+		a=a/10;
+		
+	}
+	
+	if (num==j) {
+		System.out.println("given number is Palindrome");
+		
+	}else {
+		System.out.println("Not a palindrome");
+	}
+		
+
+	}
+
+
+	public static void main(String[] args) {
+		palindrome();
+				
+				
+	}
+	
+
+	}
+
+
+

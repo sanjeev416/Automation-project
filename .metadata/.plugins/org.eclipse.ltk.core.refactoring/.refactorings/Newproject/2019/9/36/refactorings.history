@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Newproject/Screenshor&apos; to &apos;Screenshot&apos;" description="Rename resource &apos;Screenshor&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Screenshor" name="Screenshot" stamp="1567604817000" updateReferences="true"/>
+</session>

@@ -1,0 +1,36 @@
+package com.cucumber.stepdefinition;
+
+import org.openqa.selenium.WebDriver;
+
+import com.cucumber.baseclass.Basepage;
+import com.cucumber.pom.Homepage;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class Stepdefinition extends Basepage{
+	
+
+		
+	@Given("^user should login the womens page$")
+	public void user_should_login_the_womens_page() throws Throwable {
+		
+		
+		
+	  
+	}
+
+	@When("^user should the click the womens tab$")
+	public void user_should_the_click_the_womens_tab() throws Throwable {
+	    
+	}
+
+	@Then("^user should verify the womens tab$")
+	public void user_should_verify_the_womens_tab() throws Throwable {
+	    
+	}
+
+
+
+}

@@ -1,0 +1,68 @@
+package ABB;
+
+public class Finbonacci {
+	
+	public void fibo()
+	
+	{
+	int a=0,b=1,c;
+	System.out.println("The value of a is 0" +a);
+	System.out.println("The value of b is 1" +b);
+	System.out.println("fibonacci series");
+	for (int i=1;i<=1000;i++)
+	{
+		c = a+b;
+
+		{
+			if (c>=500){
+			break;
+		}
+		System.out.println(+c);
+	}
+		a=b;
+		b=c;
+			}
+
+		
+	}
+	public static void main(String[] args)
+	{
+		Finbonacci fi = new Finbonacci();
+		fi.fibo();
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+		
+}
+
+

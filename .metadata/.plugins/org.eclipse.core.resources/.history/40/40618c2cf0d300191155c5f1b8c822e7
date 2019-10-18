@@ -1,0 +1,42 @@
+package ABB;
+
+import java.util.Scanner;
+
+public class Palindrome {
+	
+	
+
+	public static void main(String[] args) {
+		
+		int a,i=0,j=0;
+		
+		Scanner sc = new Scanner(System.ii
+		
+		
+		
+		if (num==j) {
+			System.out.println("given number is Palindrome");
+			
+		}else {
+			System.out.println("Not a palindrome");
+		}
+			
+
+		}
+
+
+		public static void main(String[] args) {
+			palindrome();
+					
+					
+		}
+		
+
+		}
+		
+		
+
+	}
+
+
+}

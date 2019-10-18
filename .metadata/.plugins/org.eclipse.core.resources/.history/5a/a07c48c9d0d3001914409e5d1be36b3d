@@ -1,0 +1,33 @@
+package ABB;
+
+import java.util.Scanner;
+
+public class Palindrome {
+
+	public static void main(String[] args) {
+		Scanner sd = new Scanner(System.in);
+		System.out.println("Enter the number");
+		n=sd.nextInt();
+		
+	while(a>0)
+	{
+		i=a%10;
+		j=(j*10)+i;
+		a=a/10;
+		
+	}
+	
+	if (num==j) {
+		System.out.println("given number is Palindrome");
+		
+	}else {
+		System.out.println("Not a palindrome");
+	}
+		
+}
+		
+		
+
+	}
+
+
